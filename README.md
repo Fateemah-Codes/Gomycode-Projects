@@ -1,69 +1,70 @@
 
 
-######Abdulraheem Fateemah's Data Science Bootcamp Journey at GOMYCODE 📚
+###### Abdulraheem Fateemah's Data Science Bootcamp Journey at GOMYCODE 📚
 Welcome to my GitHub repository! Here, I showcase the skills and knowledge I acquired during the Data Science Bootcamp at GOMYCODE. This README outlines the various tools and techniques I have learned and applied throughout the course.
 
-####📌 Table of Contents####
+#### 📌 Table of Content
 About the Bootcamp
 Skills and Technologies
 Projects
 Contact Information
 Acknowledgements
 
-####📝 About the Bootcamp####
+##### 📝 About the Bootcamp
 I completed an intensive Data Science Bootcamp at GOMYCODE, where I gained hands-on experience with a variety of tools and methodologies essential for data science. The program provided a deep dive into data manipulation, analysis, visualization, and machine learning.
 
-🛠 Skills and Technologies
+#### 🛠 Skills and Technologies
 During the bootcamp, I have developed proficiency in the following areas:
 
-####SQL####:
+#### SQL:
 
 Writing complex queries
 Database design and management
 Data extraction and manipulation
 
-**Python 🐍:**
+#### Python 🐍:
 
 Core Python programming
 Scripting and automation
 Data handling and analysis
-Pandas 📊:
+
+#### Pandas 📊:
 
 Data manipulation and cleaning
 Data aggregation and grouping
 Handling missing values and outliers
 
-NumPy 🔢:
+#### NumPy 🔢:
 
 Array operations
 Mathematical and statistical functions
 Matrix operations
 
-Web Scraping 🌐:
+#### Web Scraping 🌐:
 
 Using BeautifulSoup and Scrapy
 Extracting data from web pages
 Handling dynamic content and AJAX requests
 
-Machine Learning 🤖:
+#### Machine Learning 🤖:
 
 Supervised and unsupervised learning
 Model training and evaluation
 Feature selection and engineering
 
-Modeling 🏗️:
+#### Modeling 🏗️:
 
 Building predictive models
 Model validation and tuning
 Implementing algorithms like Linear Regression, Random Forests, and Gradient Boosting
 
-Visualization 📈:
+#### Visualization 📈:
 
 Creating plots with Matplotlib and Seaborn
 Data visualization best practices
 Interactive visualizations with Plotly
 
-Power BI 📊:
+#### Power BI 📊:
 
 Creating interactive dashboards
 Data integration and transformation
@@ -74,7 +75,7 @@ Scikit-learn
 Statsmodels
 TensorFlow (basics)
 
-📂 Projects
+#### 📂 Projects
 Here are some of the projects I have worked on during the bootcamp:
 
 Project 1: Predictive Analytics for Customer Churn
@@ -94,12 +95,12 @@ Project 4: Exploratory Data Analysis (EDA) on Movie Data
 Description: Performed EDA on a movie dataset to uncover insights about genres, ratings, and trends.
 Technologies: Python, Pandas, Matplotlib, Seaborn
 
-📬 Contact Information
+#### 📬 Contact Information
 Feel free to reach out to me for any questions or collaboration opportunities:
 
 Email: Olaidefateemah@gmail.com
 LinkedIn: http://linkedin.com/in/fateemah-olaide-8245aa124
 GitHub: Fateemah-Codes
 
-🎉 Acknowledgements
+#### 🎉 Acknowledgements
 A huge thanks to GOMYCODE for providing an incredible learning experience and the opportunity to develop these valuable skills.
