@@ -1,22 +1,22 @@
-# Gomycode-Projects
 
-Data Science Bootcamp Journey at GOMYCODE 📚
+
+######Abdulraheem Fateemah's Data Science Bootcamp Journey at GOMYCODE 📚######
 Welcome to my GitHub repository! Here, I showcase the skills and knowledge I acquired during the Data Science Bootcamp at GOMYCODE. This README outlines the various tools and techniques I have learned and applied throughout the course.
 
-📌 Table of Contents
+####📌 Table of Contents####
 About the Bootcamp
 Skills and Technologies
 Projects
 Contact Information
 Acknowledgements
 
-📝 About the Bootcamp
+####📝 About the Bootcamp####
 I completed an intensive Data Science Bootcamp at GOMYCODE, where I gained hands-on experience with a variety of tools and methodologies essential for data science. The program provided a deep dive into data manipulation, analysis, visualization, and machine learning.
 
 🛠 Skills and Technologies
 During the bootcamp, I have developed proficiency in the following areas:
 
-SQL:
+####SQL####:
 
 Writing complex queries
 Database design and management
