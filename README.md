@@ -22,7 +22,7 @@ Writing complex queries
 Database design and management
 Data extraction and manipulation
 
-Python 🐍:
+**Python 🐍:**
 
 Core Python programming
 Scripting and automation
