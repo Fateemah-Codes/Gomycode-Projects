@@ -124,9 +124,11 @@ Technologies: Python, Pandas, Matplotlib, Seaborn
 Feel free to reach out for any questions or collaboration opportunities:
 
 Email: Olaidefateemah@gmail.com
+
 LinkedIn: Fateemah Olaide
+
 GitHub: Fateemah-Codes
 
-🎉 Acknowledgements
+# 🎉 Acknowledgements
 A huge thank you to GOMYCODE for providing an incredible learning experience and the opportunity to develop these valuable skills. Your training has been instrumental in shaping my data science journey!
 
