@@ -9,6 +9,7 @@ Skills and Technologies
 Projects
 Contact Information
 Acknowledgements
+
 📝 About the Bootcamp
 I completed an intensive Data Science Bootcamp at GOMYCODE, where I gained hands-on experience with a variety of tools and methodologies essential for data science. The program provided a deep dive into data manipulation, analysis, visualization, and machine learning.
 
@@ -20,6 +21,7 @@ SQL:
 Writing complex queries
 Database design and management
 Data extraction and manipulation
+
 Python 🐍:
 
 Core Python programming
@@ -30,31 +32,37 @@ Pandas 📊:
 Data manipulation and cleaning
 Data aggregation and grouping
 Handling missing values and outliers
+
 NumPy 🔢:
 
 Array operations
 Mathematical and statistical functions
 Matrix operations
+
 Web Scraping 🌐:
 
 Using BeautifulSoup and Scrapy
 Extracting data from web pages
 Handling dynamic content and AJAX requests
+
 Machine Learning 🤖:
 
 Supervised and unsupervised learning
 Model training and evaluation
 Feature selection and engineering
+
 Modeling 🏗️:
 
 Building predictive models
 Model validation and tuning
 Implementing algorithms like Linear Regression, Random Forests, and Gradient Boosting
+
 Visualization 📈:
 
 Creating plots with Matplotlib and Seaborn
 Data visualization best practices
 Interactive visualizations with Plotly
+
 Power BI 📊:
 
 Creating interactive dashboards
@@ -65,6 +73,7 @@ Additional Data Science Packages:
 Scikit-learn
 Statsmodels
 TensorFlow (basics)
+
 📂 Projects
 Here are some of the projects I have worked on during the bootcamp:
 
@@ -88,9 +97,9 @@ Technologies: Python, Pandas, Matplotlib, Seaborn
 📬 Contact Information
 Feel free to reach out to me for any questions or collaboration opportunities:
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+Email: Olaidefateemah@gmail.com
+LinkedIn: http://linkedin.com/in/fateemah-olaide-8245aa124
+GitHub: Fateemah-Codes
 
 🎉 Acknowledgements
 A huge thanks to GOMYCODE for providing an incredible learning experience and the opportunity to develop these valuable skills.
