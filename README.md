@@ -12,7 +12,7 @@ Acknowledgements
 I completed an intensive Data Science Bootcamp at GOMYCODE, where I gained hands-on experience with a wide array of tools and methodologies crucial for data science. The program offered a deep dive into:
 Data manipulation
 
-Data analysis
+# Data analysis
 
 Data visualization
 
@@ -79,37 +79,48 @@ Data visualization best practices
 
 Interactive visualizations with Plotly
 
-Power BI 📊
+# Power BI 📊
 Creating interactive dashboards
+
 Data integration and transformation
+
 Advanced data visualization techniques
+
 Additional Data Science Packages
+
 Scikit-learn
+
 Statsmodels
+
 TensorFlow (basics)
 
-📂 Projects
+# 📂 Projects
 Here are some of the projects I’ve worked on during the bootcamp:
 
-Predictive Analytics for Customer Churn 📉
+# Predictive Analytics for Customer Churn 📉
 
 Description: Developed a model to predict customer churn using machine learning techniques.
+
 Technologies: Python, Scikit-learn, Pandas, NumPy
 
-Web Scraping Real Estate Data 🏠
-
+# Web Scraping Real Estate Data 🏠
 Description: Scraped data from real estate websites to analyze housing trends.
+
 Technologies: Python, BeautifulSoup, Pandas
-Sales Dashboard with Power BI 📊
+
+# Sales Dashboard with Power BI 📊
 
 Description: Created an interactive dashboard to visualize sales performance.
+
 Technologies: Power BI
+
 Exploratory Data Analysis (EDA) on Movie Data 🎥
 
 Description: Performed EDA on a movie dataset to uncover insights about genres, ratings, and trends.
+
 Technologies: Python, Pandas, Matplotlib, Seaborn
 
-📬 Contact Information
+# 📬 Contact Information
 Feel free to reach out for any questions or collaboration opportunities:
 
 Email: Olaidefateemah@gmail.com
