@@ -1,5 +1,7 @@
-🌟 Abdulraheem Fateemah's Data Science Bootcamp Journey at GOMYCODE 📚
-Welcome to my GitHub repository! Here, I showcase the skills and knowledge I acquired during the Data Science Bootcamp at GOMYCODE. This README highlights the tools and techniques I’ve learned and applied throughout the course.
+# 🌟 Abdulraheem Fateemah's Data Science Bootcamp Journey at GOMYCODE 📚
+
+Welcome to my GitHub repository! Here, I showcase the skills and knowledge I acquired during the Data Science Bootcamp at GOMYCODE. 
+This README highlights the tools and techniques I’ve learned and applied throughout the course.
 
 # 📌 Table of Contents
 About the Bootcamp
